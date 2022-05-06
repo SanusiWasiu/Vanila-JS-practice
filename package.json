@@ -1,0 +1,19 @@
+{
+  "name": "vanila-js-practice",
+  "version": "1.0.0",
+  "description": "projects to practice vanila js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanusiWasiu/Vanila-JS-practice.git"
+  },
+  "author": "Wasiu Sanusi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanusiWasiu/Vanila-JS-practice/issues"
+  },
+  "homepage": "https://github.com/SanusiWasiu/Vanila-JS-practice#readme"
+}
